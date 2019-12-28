@@ -1,4 +1,4 @@
-BHSEC-CG-Intersect-Ray
+# BHSEC-CG-Intersect-Ray
 
 C++ project files relevant to the implementation of a basic ray tracer. These project files correspond to the final project of a computer graphics independent study at Bard High School Early College Queens the fall of 2016 with professor Matthew Carlberg.
 
@@ -8,7 +8,7 @@ C++ project files relevant to the implementation of a basic ray tracer. These pr
 
 This project was built upon Brown CS123's Introduction to Computer Graphics starter code. The majority of the relevant code takes place within the geometry class files (Mesh, ConeMesh, CylinderMesh etc.) and the RayScene class files. The geometry class files define tesselation and ray-surface intersection functionality whereas the RayScene class contains the actual implementation of the ray tracing algorithm.
 
-The []() folder contains examples scenes rendered with the ray tracer.
+The [intersect_ray_examples](https://github.com/trastopchin/BHSEC-CG-Intersect-Ray/tree/master/intersect_ray_examples) folder contains examples scenes rendered with the ray tracer.
 
 ## Implementation Details
 
